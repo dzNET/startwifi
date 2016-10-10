@@ -1,0 +1,9 @@
+c:\users\game\desktop\StartWiFi\StartWiFi\StartWiFi\bin\Debug\StartWiFi.exe
+c:\users\game\desktop\StartWiFi\StartWiFi\StartWiFi\bin\Debug\StartWiFi.pdb
+c:\users\game\desktop\StartWiFi\StartWiFi\StartWiFi\obj\Debug\StartWiFi.Properties.Resources.resources
+c:\users\game\desktop\StartWiFi\StartWiFi\StartWiFi\obj\Debug\StartWiFi.csproj.GenerateResource.Cache
+c:\users\game\desktop\StartWiFi\StartWiFi\StartWiFi\obj\Debug\StartWiFi.exe
+c:\users\game\desktop\StartWiFi\StartWiFi\StartWiFi\obj\Debug\StartWiFi.pdb
+c:\users\game\desktop\StartWiFi\StartWiFi\StartWiFi\obj\Debug\StartWiFi.StartWiFi.resources
+C:\Users\game\Desktop\StartWiFi\StartWiFi\StartWiFi\bin\Debug\StartWiFi.exe.config
+C:\Users\game\desktop\StartWiFi\StartWiFi\StartWiFi\obj\Debug\StartWiFi.csprojResolveAssemblyReference.cache
