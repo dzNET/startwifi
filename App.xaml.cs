@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
 using System.Linq;
-using System.Windows.Forms;
 using System.Text;
+using System.Windows;
 using System.IO;
 using System.Net.Sockets;
 
@@ -196,17 +198,11 @@ namespace StartWiFi
         }
     }
 
-    static class Program
+
+    /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary>
+    public partial class App : Application
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new StartWiFi());
-        }
     }
 }
