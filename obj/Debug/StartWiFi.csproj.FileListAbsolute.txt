@@ -16,3 +16,6 @@ C:\Users\game\Desktop\StartWiFi\new\StartWiFi\StartWiFi\bin\Debug\StartWiFi.exe.
 C:\Users\game\Desktop\StartWiFi\new\StartWiFi\StartWiFi\bin\Debug\StartWiFi.application
 C:\Users\game\Desktop\StartWiFi\new\StartWiFi\StartWiFi\obj\Debug\StartWiFi.exe.manifest
 C:\Users\game\Desktop\StartWiFi\new\StartWiFi\StartWiFi\obj\Debug\StartWiFi.application
+D:\Downloads\startwifi-master\bin\Debug\StartWiFi.exe.config
+D:\Downloads\startwifi-master\obj\Debug\StartWiFi.exe
+D:\Downloads\startwifi-master\obj\Debug\StartWiFi.pdb

@@ -131,7 +131,6 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
-    <None Include="StartWiFi_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="startwifi.ico" />

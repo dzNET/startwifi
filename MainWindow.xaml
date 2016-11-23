@@ -5,15 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StartWiFi"
         mc:Ignorable="d"
-        Title="StartWiFi cloud" Height="157" Width="195">
-    <Grid Margin="0,0,0,0" Height="127" VerticalAlignment="Top">
-        <TextBlock x:Name="host_title" Margin="25,6,136,0" TextWrapping="Wrap" Text="host" TextAlignment="Center" VerticalAlignment="Top" Height="14"/>
-        <TextBox x:Name="host" Height="25" Margin="77,2,10,0" TextWrapping="Wrap" Text="192.168.88.1" TextAlignment="Center" VerticalAlignment="Top" Width="95"/>
-        <TextBlock x:Name="login_title" Margin="25,35,136,0" TextWrapping="Wrap" Text="login" TextAlignment="Center" VerticalAlignment="Top" Height="14"/>
-        <TextBox x:Name="login" Height="25" Margin="77,31,10,0" TextWrapping="Wrap" Text="admin" TextAlignment="Center" VerticalAlignment="Top" Width="95"/>
-        <TextBlock x:Name="passwd_title" Margin="9,65,120,0" TextWrapping="Wrap" Text="password" TextAlignment="Center" VerticalAlignment="Top" Height="14"/>
-        <PasswordBox x:Name="passwd" Height="25" Margin="77,61,10,0" HorizontalContentAlignment="Center" VerticalAlignment="Top" Width="95"/>
-        <Button x:Name="upload" Content="upload" Click="up_Click" Margin="127,91,10,0" VerticalAlignment="Top" Height="30" Width="45"/>
-        <Button x:Name="remove" Content="remove" Click="rm_Click" Margin="77,91,60,0" VerticalAlignment="Top" Height="30" Width="45"/>
+        Title="StartWiFi cloud" Height="157" Width="216.409">
+    <Grid Margin="0,0,0,0" Height="127" VerticalAlignment="Center">
+        <TextBlock x:Name="host_title" Margin="25,2,136,101" TextWrapping="Wrap" Text="host" TextAlignment="Center" VerticalAlignment="Center" Height="24"/>
+        <TextBox x:Name="host" Height="25" Margin="94.409,2,19,0" TextWrapping="Wrap" Text="192.168.88.1" TextAlignment="Center" VerticalAlignment="Top" Width="95"/>
+        <TextBlock x:Name="login_title" Margin="25,31,136,71" TextWrapping="Wrap" Text="login" TextAlignment="Center" VerticalAlignment="Center" Height="25"/>
+        <TextBox x:Name="login" Height="25" Margin="94.409,32,19,70" TextWrapping="Wrap" Text="admin" TextAlignment="Center" VerticalAlignment="Stretch" Width="95"/>
+        <TextBlock x:Name="passwd_title" Margin="10,62,119,0" TextWrapping="Wrap" Text="password" TextAlignment="Center" VerticalAlignment="Top" Height="25"/>
+        <PasswordBox x:Name="passwd" Height="25" Margin="94.409,62,19,0" HorizontalContentAlignment="Center" VerticalAlignment="Top" Width="95"/>
+        <Button x:Name="upload" Content="upload" Click="ClickUpload" Margin="127,91,10,0" VerticalAlignment="Top" Height="30" Width="45"/>
+        <Button x:Name="remove" Content="remove" Click="ClickRemove" Margin="77,91,60,0" VerticalAlignment="Top" Height="30" Width="45"/>
     </Grid>
 </Window>
