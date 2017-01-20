@@ -7,7 +7,7 @@
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
-    <FallbackCulture>en-US</FallbackCulture>
+    <FallbackCulture>ru-RU</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
 </Project>

@@ -1,7 +1,7 @@
-﻿<Application x:Class="StartWiFi.App"
+﻿<Application x:Class="StartWifi.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:StartWiFi"
+             xmlns:local="clr-namespace:StartWifi"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
